@@ -104,3 +104,8 @@ class Dragon():
     
 dr = Dragon(69, 5, 'brown')
 dr1 = Dragon(69, 5, 'gray')
+dr2 = dr+dr1
+print(dr, dr1, dr2, sep="\n")
+
+
+
